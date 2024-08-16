@@ -1,5 +1,4 @@
-# Device Apps plugin for Flutter (UNMAINTAINED)
-
+# Device Apps plugin for Flutter
 [![Pub](https://img.shields.io/pub/v/device_apps.svg)](https://pub.dartlang.org/packages/device_apps)
 
 A plugin to list installed applications on an Android device (⚠️ iOS is not supported). You can also listen to app changes (eg: installations, updates…)
